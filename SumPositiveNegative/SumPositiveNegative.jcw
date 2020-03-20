@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SumPositiveNegative</label>
+		<id>76</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>SumPositiveNegative.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>..\Activity\PrimeNumbers\PrimeNumbers.jcp</path>
+		</project>
+		<project>
+			<path>SumPositiveNegative.jcp</path>
+		</project>
+	</projects>
+</workspace>
